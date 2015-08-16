@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nihey/node-boilerplate.git"
+    "url": "https://github.com/nihey/brazil-data.git"
   },
   "keywords": [
     "brazil",
@@ -17,7 +17,10 @@
   "author": "Nihey Takizawa <nihey.takizawa@gmail.com>",
   "license": "CC0",
   "bugs": {
-    "url": "https://github.com/nihey/node-boilerplate/issues"
+    "url": "https://github.com/nihey/brazil-data/issues"
   },
-  "homepage": "https://github.com/nihey/node-boilerplate"
+  "homepage": "https://github.com/nihey/brazil-data",
+  "devDependencies": {
+    "cheerio": "^0.19.0"
+  }
 }
